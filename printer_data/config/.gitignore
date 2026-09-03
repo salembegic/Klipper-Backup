@@ -1,0 +1,10 @@
+*.gcode
+*.log
+*.png
+*.jpg
+*.mp4
+*.zip
+*.tar.gz
+*.csv
+database/
+.DS_Store
